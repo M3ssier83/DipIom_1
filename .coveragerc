@@ -1,0 +1,12 @@
+[run]
+source = stellar_burger_app
+branch = True
+
+[report]
+omit =
+    tests/*
+    conftest.py
+    data.py
+
+[html]
+directory = coverage_report
