@@ -64,5 +64,3 @@ available_ingredients = [
     ("filling", "dinosaur", 200),
     ("filling", "sausage", 300)
 ]
-
-
